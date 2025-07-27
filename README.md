@@ -5,7 +5,7 @@ ___
 
 This project aims to find insights, trends and patterns among the NYC K-8 Public School student academic performance and population to determine which factors/combinations of factors may have impacted educational outcomes. 
 
-The project will analyze chronic absenteeism rates, New York State Math Test results  and ELA (English Language Ars) for 3-8th grade students, student enrollment percentages, demographics, and more across the five Boroughs (The Bronx, Manhattan, Brooklyn, Queens, Staten Island.)
+The project will analyze chronic absenteeism rates, New York State Math Test results  and ELA (English Language Arts) for 3-8th grade students, student enrollment percentages, demographics, and more across the five Boroughs (The Bronx, Manhattan, Brooklyn, Queens, Staten Island.)
 
 Data from before (pre-2020) and after the Covid-19 Lockdown will be compared to establish a baseline from which to evaluate changes from school year to school year (2016-2024)
 
