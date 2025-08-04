@@ -21,9 +21,19 @@ The information was obtained from [NYC Open Data](https://opendata.cityofnewyork
 The following datasets were used:
 
 - [**2019-20 Demographic Snapshot - Borough**](https://data.cityofnewyork.us/Education/2019-20-Demographic-Snapshot-Borough/2a5f-5ryi/about_data)
-    - Student demographic and enrollment data by **Borough** from 2016-17 through 2020-21.
+    - Student demographic and enrollment data by **Borough** from 2016-17 through 2019-20.
+
+    - Starts during the 2016-17 school year and ends during the 2019-20 school year
+
+-   [**2020-2021 Demographic Snapshot - Borough**](https://data.cityofnewyork.us/Education/2020-2021-Demographic-Snapshot-Borough/vquv-pjuh/about_data)
+    - Student demographic and enrollment data by **Borough** from 2016-17 through 2020-2021.
 
     - Starts during the 2016-17 school year and ends during the 2020-21 school year
+
+-   [**Demographic Snapshot 2019-20 to 2023-24 (Public)**](hhttps://infohub.nyced.org/search-results?keyword=demographic%20snapshot)
+    - Student demographic and enrollment data by **Borough** from 2019-20 through 2023-24.
+
+    - Starts during the 2019-20 school year and ends during the 2023-24 school year
 
 - [**2016-17 - 2020-21 End-of-Year *Borough* Attendance and Chronic Absenteeism Data**](https://data.cityofnewyork.us/Education/2016-17-2020-21-End-of-Year-Borough-Attendance-and/peyw-qepe/about_data)
     - Displays attendance and chronic absenteeism data organized by Borough (Manhattan, Brooklyn, The Bronx, Queens, Staten Island)
